@@ -13,7 +13,7 @@ for i in range(row1):
 		inpt=int(input())
 		row.append(inpt)
 	Matrix1.append(row)
-#input second matrix
+											#input second matrix
 for i in range(row2):
 	row=[]
 	for j in range(col2):
